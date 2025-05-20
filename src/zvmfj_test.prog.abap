@@ -7,5 +7,4 @@ REPORT zvmfj_test.
 
 
 START-OF-SELECTION.
-
-  WRITE: 'Hello World'.
+  WRITE: 'Um nova feature.'.
